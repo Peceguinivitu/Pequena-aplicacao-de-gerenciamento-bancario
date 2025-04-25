@@ -1,20 +1,27 @@
-# 🏦 Pequena aplicação de gerenciamento bancário
+# 🏦 Pequena Aplicação de Gerenciamento Bancário
 
-Projeto desenvolvido como atividade da faculdade com o objeto de realizar uma simples aplicação de gerenciamento bancário.
+Projeto desenvolvido como atividade da faculdade, com o objetivo de construir uma aplicação simples de gerenciamento bancário.
 
+---
 
 ## 💡 Funcionalidades
-- Possibilita que o usuário consulte suas informações
-- Deposíto e saque
-- Emissão
 
-## 🛠️ Tecnologias utilizadas
+- Consultar informações do usuário
+- Realizar depósitos e saques
+- Emitir saldo
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - Java
 - Eclipse IDE
 
-## ☕ Como executar
+---
+
+## ☕ Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Peceguinivitu/Pequena-aplicacao-de-gerenciamento-bancario.git
+
+```bash
+git clone https://github.com/Peceguinivitu/Pequena-aplicacao-de-gerenciamento-bancario.git
